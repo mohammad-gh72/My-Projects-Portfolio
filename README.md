@@ -11,6 +11,8 @@ Welcome to my projects portfolio! This repository serves as a showcase of my cod
 - **Description:** A Chrome extension designed to assist with language learning by helping users master new vocabulary.
 - **Technologies:** JavaScript (Chrome Extension API) - ReactJs
 - **Link:** [VocabReminder Repository](https://github.com/mohammad-gh72/VocabReminder)
+- 
+---
 
 ### 2. **Virtual DOM**
 
