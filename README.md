@@ -14,7 +14,15 @@ Welcome to my projects portfolio! This repository serves as a showcase of my cod
 - 
 ---
 
-### 2. **Virtual DOM**
+### 2. **step-slider**
+
+- **Description:**A React component for step-based scrolling navigation.
+- **Technologies:** Typescript- ReactJs
+- **Link:** [step-slider](https://github.com/mohammad-gh72/step-slider)
+- 
+---
+
+### 3. **Virtual DOM**
 
 - **Description:** A practice project for studying and exploring the concept of the Virtual DOM, as well as understanding how React works behind the scenes to render JSX.
 - **Technologies:** JavaScript
@@ -22,7 +30,7 @@ Welcome to my projects portfolio! This repository serves as a showcase of my cod
 
 ---
 
-### 3. **Movinfo**
+### 4. **Movinfo**
 
 - **Description:** A user-friendly app for searching and accessing movie information.
 - **Technologies:** JavaScript , ReactJs
@@ -30,7 +38,7 @@ Welcome to my projects portfolio! This repository serves as a showcase of my cod
 
 ---
 
-### 4. **Reactivity with Pure JavaScript**
+### 5. **Reactivity with Pure JavaScript**
 
 - **Description:** A study case project focused on understanding reactivity in JavaScript without using any frameworks.
 - **Technologies:** JavaScript
@@ -38,7 +46,7 @@ Welcome to my projects portfolio! This repository serves as a showcase of my cod
 
 ---
 
-### 5. **Traverlly**
+### 6. **Traverlly**
 
 - **Description:** An HTML/CSS practice project turned into a React app, where data is fetched from jsonbin.
 - **Technologies:** JavaScript (React)
@@ -46,7 +54,7 @@ Welcome to my projects portfolio! This repository serves as a showcase of my cod
 
 ---
 
-### 6. **TypeScript React Todo App**
+### 7. **TypeScript React Todo App**
 
 - **Description:** A simple Todo application built with TypeScript and React to manage tasks efficiently.
 - **Technologies:** TypeScript, React
