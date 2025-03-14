@@ -11,7 +11,7 @@ Welcome to my projects portfolio! This repository serves as a showcase of my cod
 - **Description:** A Chrome extension designed to assist with language learning by helping users master new vocabulary.
 - **Technologies:** JavaScript (Chrome Extension API) - ReactJs
 - **Link:** [VocabReminder Repository](https://github.com/mohammad-gh72/VocabReminder)
-- 
+  
 ---
 
 ### 2. **step-slider**
@@ -19,7 +19,7 @@ Welcome to my projects portfolio! This repository serves as a showcase of my cod
 - **Description:** A React component for step-based scrolling navigation.
 - **Technologies:** Typescript- ReactJs
 - **Link:** [step-slider](https://github.com/mohammad-gh72/step-slider)
-- 
+  
 ---
 
 ### 3. **Virtual DOM**
