@@ -16,7 +16,7 @@ Welcome to my projects portfolio! This repository serves as a showcase of my cod
 
 ### 2. **step-slider**
 
-- **Description:**A React component for step-based scrolling navigation.
+- **Description:** A React component for step-based scrolling navigation.
 - **Technologies:** Typescript- ReactJs
 - **Link:** [step-slider](https://github.com/mohammad-gh72/step-slider)
 - 
